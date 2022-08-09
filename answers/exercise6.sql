@@ -1,0 +1,2 @@
+ALTER TABLE myNewDB
+ADD Birthday DATE;
